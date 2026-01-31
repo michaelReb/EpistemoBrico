@@ -5,6 +5,7 @@ Epistemic bricolage and prototyping
 * Bricolage across epistemologies
 * Understand paradigm shifts (Kuhn), in science and beyond
 * Beyond Kuhn: Michel Foucault and his legacy 
+* Bricoleur archetype (Levi-Strauss) and similar 
 * Extend the MakerSpace paradigm 
 * Build epistemic bricolage labs
 
