@@ -20,7 +20,7 @@ Collect ideas for the community build
 * whitepaper (Q-UEL/HDNs stack)
 * Python corner: code
 * epistemic bricolage lab design
-* digital library
-* reusability knowledge
+* open access digital library
+* knowledge, organized, reusable
 
 
