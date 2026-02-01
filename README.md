@@ -19,11 +19,11 @@ Learn from
 Collect ideas for the community build
 
 * Open Science values (UNESCO)
-* whitepaper (Q-UEL/HDNs stack)
-* Python corner: code
-* epistemic bricolage lab design
-* open access digital library
-* knowledge, organized, reusable
+* whitepaper on the Q-UEL/HDNs stack for building more flexible learning system prototypes e.g. for complexity in human health
+* Python corner: code, e.g. for prototyping using the Q-UEL/HDN stack
+* epistemic bricolage lab design (a new kind of MakerSpace?)
+* open access digital library (avoid texts behind paywalls)
+* knowledge, organized, reusable - for Epistemic Bricolage and similar prototyping outside classic paradigms
 
 Epistemic Bricolage Labs: What is it about? Why do we need them?
 
