@@ -25,7 +25,7 @@ Collect ideas for the community build
 * open access digital library
 * knowledge, organized, reusable
 
-Epistemic bricolage labs: An introduction
+Epistemic Bricolage Labs: What is it about? Why do we need them?
 
 We are entering an age of polycrisis: overlapping disruptions in health, climate, technology, geopolitics, demography, and institutional trust. Across domains, organizations are struggling not because they lack data or expertise, but because their cognitive infrastructures are ossified. All too often, they operate as rigid category-to-process systems: predefined classifications trigger standardized workflows, KPIs, and accountability structures optimized for yesterday’s world. When those categories were designed. 
 
@@ -124,4 +124,4 @@ Potentially relevant scholarly work:
      https://www.euppublishing.com/doi/full/10.3366/para.2012.0064
 * Makerspaces and FabLab communities: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=makerspace+fablab+culture&btnG=
 * Theory of paradigm shifts (Kuhn and beyond), https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=paradigm+shift+kuhn+theory&oq=paradigm+shift+Kuhn
-* 
+* Michel Foucault and his legacy related to power/knowledge, https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=michel+Foucault+power+knowledge&btnG=
