@@ -96,7 +96,12 @@ Key cultural principles:
 * cross-status collaboration, and hearing neglected voices
 * servant leadership rather than managerial control
 
+This aligns with complexity-aware governance models that distinguish between:
+* ordered domains (where best practices work)
+* complicated domains (where expert engineering works)
+* complex domains (where experimentation and learning are essential)
 
+Bricolage Labs are explicitly designed for the complex domain.
 
 Lab heads in Epistemic Bricolage Labs function less as directors of work, and more as mentors and sensemakers:
 
@@ -124,4 +129,5 @@ Potentially relevant scholarly work:
      https://www.euppublishing.com/doi/full/10.3366/para.2012.0064
 * Makerspaces and FabLab communities: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=makerspace+fablab+culture&btnG=
 * Theory of paradigm shifts (Kuhn and beyond), https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=paradigm+shift+kuhn+theory&oq=paradigm+shift+Kuhn
+* Cynefin (Dave Snowden)
 * Michel Foucault and his legacy related to power/knowledge, https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=michel+Foucault+power+knowledge&btnG=
