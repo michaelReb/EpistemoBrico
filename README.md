@@ -4,6 +4,7 @@ Epistemic bricolage and prototyping
 * Epistemological prototyping
 * Bricolage across epistemologies
 * Understand paradigm shifts (Kuhn), in science and beyond
+* Open Science 2.0 = ?
 * Beyond Kuhn: Michel Foucault and his legacy
 * Cynefin: re-wilding, complex vs. complicated
 * Bricoleur archetype (Levi-Strauss) and similar 
