@@ -8,7 +8,7 @@ Epistemic bricolage and prototyping
 * Beyond Kuhn: Michel Foucault and his legacy
 * Cynefin: re-wilding, complex vs. complicated
 * Bricoleur archetype (Levi-Strauss) and similar 
-* Extend the MakerSpace paradigm 
+* Extend the MakerSpace paradigm (make it epistemiologically richer?)
 * Build epistemic bricolage labs
 
 Learn from
