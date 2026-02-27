@@ -16,7 +16,7 @@ Our semantic field for epistemic bricolage:
 * Understand paradigm shifts (Kuhn), in science and beyond
 * Open Science 2.0 = ?
 * Beyond Kuhn: Michel Foucault and his legacy
-* Cynefin: re-wilding, complex vs. complicated
+* Cynefin: re-wilding, complex vs. complicated ([Dave Snowden](https://thecynefin.co/team/dave-snowden/?srsltid=AfmBOor3xeGEix4O6errsXBbd705yOoCS5QY2CPcLvQT_-Clh0WwxRle))
 * Bricoleur archetype (Levi-Strauss) and FabLab culture
 * Extend the MakerSpace paradigm (make it epistemiologically richer?)
 * Build epistemic bricolage labs
