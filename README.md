@@ -7,7 +7,7 @@ Active projects:
 
 Tech stacks:
 * Q-UEL/HDN in Python
-* OHDSI tech stack including their OMOP CDM
+* OHDSI tech stack including their [OMOP CDM](https://ohdsi.github.io/CommonDataModel/)
 * looking for an agentic AI framework that fits
 
 Our semantic field for epistemic bricolage:
