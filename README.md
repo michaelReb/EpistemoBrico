@@ -1,13 +1,20 @@
 # EpistemoBrico
 Epistemic bricolage and prototyping
 
-* Epistemological prototyping
+Active projects:
+* Digital epistemology for health: unguided patients and preventive care, patient-centric 
+([whitepaper v1.0 PDF]
+(EpistemP4.v1.0_whitepaper.pdf))
+* Design of epistemic bricolage labs (see semantic field below)
+
+Our semantic field for epistemic bricolage:
+* Enabling creative prototyping (with epistemes)
 * Bricolage across epistemologies
 * Understand paradigm shifts (Kuhn), in science and beyond
 * Open Science 2.0 = ?
 * Beyond Kuhn: Michel Foucault and his legacy
 * Cynefin: re-wilding, complex vs. complicated
-* Bricoleur archetype (Levi-Strauss) and similar 
+* Bricoleur archetype (Levi-Strauss) and FabLab culture
 * Extend the MakerSpace paradigm (make it epistemiologically richer?)
 * Build epistemic bricolage labs
 
@@ -132,3 +139,20 @@ Potentially relevant scholarly work:
 * Theory of paradigm shifts (Kuhn and beyond), https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=paradigm+shift+kuhn+theory&oq=paradigm+shift+Kuhn
 * Cynefin (Dave Snowden)
 * Michel Foucault and his legacy related to power/knowledge, https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=michel+Foucault+power+knowledge&btnG=
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
