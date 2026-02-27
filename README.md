@@ -5,6 +5,11 @@ Active projects:
 * Digital epistemology for health: unguided patients and preventive care, patient-centric, e.g. using the Q-UEL/HDN stack developed by Barry Robson et al. (see the [whitepaper](https://github.com/michaelReb/EpistemoBrico/blob/57f31b9c4eec59258da5087b61beb2d6d56c0cc0/EpistemP4.v1.0_whitepaper.OpenSciCommunity.pdf))
 * Design of epistemic bricolage labs (see semantic field below)
 
+Tech stacks:
+* Q-UEL/HDN in Python
+* OHDSI tech stack including their OMOP CDM
+* looking for an agentic AI framework that fits
+
 Our semantic field for epistemic bricolage:
 * Enabling creative prototyping (with epistemes)
 * Bricolage across epistemologies
