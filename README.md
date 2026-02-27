@@ -2,7 +2,7 @@
 Epistemic bricolage and prototyping
 
 Active projects:
-* Digital epistemology for health: unguided patients and preventive care, patient-centric, e.g. using the Q-UEL/HDN stack developed by Barry Robson et al. (see the EpistemP4.v1.0_whitepaper...)
+* Digital epistemology for health: unguided patients and preventive care, patient-centric, e.g. using the Q-UEL/HDN stack developed by Barry Robson et al. (see the [whitepaper](https://github.com/michaelReb/EpistemoBrico/blob/57f31b9c4eec59258da5087b61beb2d6d56c0cc0/EpistemP4.v1.0_whitepaper.OpenSciCommunity.pdf))
 * Design of epistemic bricolage labs (see semantic field below)
 
 Our semantic field for epistemic bricolage:
